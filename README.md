@@ -8,10 +8,13 @@ Uses cross-platform imaging library by [SixLabors](https://sixlabors.com/project
 Usage:
 
 http://.../ImageFlip?direction=[vertical | horizontal]
+
    Flips image in desired direction and returns as PNG.
 
 http://.../ImageRotate?degrees=[0-360]
+
    Rotates image by specified degrees and returns as PNG.
 
 http://.../ImageInfo
+
    Returns width and height of image as JSON.
