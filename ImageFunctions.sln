@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRotate", "ImageRotate\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageFlip", "ImageFlip\ImageFlip.csproj", "{A0A5D44D-BBD6-4562-B088-45A12AE30A08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServicePingTest", "ImageServicePingTest\ImageServicePingTest.csproj", "{7AAA7361-135B-4CD8-A29E-AB2BFB31AFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{A0A5D44D-BBD6-4562-B088-45A12AE30A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A5D44D-BBD6-4562-B088-45A12AE30A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A5D44D-BBD6-4562-B088-45A12AE30A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAA7361-135B-4CD8-A29E-AB2BFB31AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAA7361-135B-4CD8-A29E-AB2BFB31AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAA7361-135B-4CD8-A29E-AB2BFB31AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAA7361-135B-4CD8-A29E-AB2BFB31AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
